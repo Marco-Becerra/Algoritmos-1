@@ -25,5 +25,5 @@ mensaje = "Bienvenido a UPN"
 print(mensaje)
 
 # Presentacion mas avanzada uso f " "
-print(f"usted tiene{18 años} Bienvenido a UPN")
+print(f"usted tiene{18 años } Bienvenido a UPN")
       

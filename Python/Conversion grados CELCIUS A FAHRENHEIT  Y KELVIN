@@ -1,0 +1,16 @@
+#COMVERSION DE GRADOS CELCIUS Y KELVIN
+
+
+"""ENTRADA DE DATOS"""
+c= float(input("ingrese la temperatura (c°): "));
+
+"""PROCESO"""
+f=(9*c/5)+32
+k=c+273
+
+
+"""SALIDA DE DATOS"""
+print("en grados Fahrenheites:" , f);
+print("en grados kelvin es; ", k);
+
+#
