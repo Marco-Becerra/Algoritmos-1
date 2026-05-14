@@ -1,8 +1,7 @@
 Algoritmo Costo_estacionamiento
-	Mostrar "fecha: ",FechaActual();
-	Mostrar "hora: ",HoraActual();
-	Mostrar "Marco Becerra Quispe";
-	
+	Escribir 'fecha: ', FechaActual();
+	Escribir 'hora: ', HoraActual();
+	Escribir 'Marco Becerra Quispe';
 	// definir variables
 	Definir horas, total Como Real;
 	// constante: costo por hora

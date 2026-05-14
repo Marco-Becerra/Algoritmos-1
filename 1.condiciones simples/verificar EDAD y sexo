@@ -1,0 +1,14 @@
+Algoritmo Verificar_Edad_Sexo
+//definir variables
+definir edad como entero;
+definir sexo como caracter;
+//entada de datos 
+Escribir " Ingrese su edad: ";
+leer edad 
+Escribir "ingrese su sexo[F-M]: ";
+leer sexo
+//proceso-decision
+si edad >=18 y sexo=="f" entonces 
+    Escribir" es una  mujer mayor de edad";
+fin si
+finAlgoritmo
